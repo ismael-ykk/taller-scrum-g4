@@ -13,7 +13,5 @@ Equip: `gN` (canvieu-ho pel número del vostre equip)
 
 ## Menú de pantalles
 
-<!-- Afegiu ací una línia per pantalla, per exemple:
-- [Calendari](pantalles/04-calendari.md)
--->
+- [App bonica](pantalles/08-appbonica.md)
 
