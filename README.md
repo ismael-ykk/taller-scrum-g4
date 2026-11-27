@@ -12,6 +12,7 @@ Equip: `gN` (canvieu-ho pel número del vostre equip)
 - Les ordres de Git, en `GUIA_RAPIDA.md`. Les històries per a copiar, en `BACKLOG.md`.
 
 ## Menú de pantalles
-
+- [Confirmar l'assistència](pantalles/04-assistencia.md)
 - [App bonica](pantalles/08-appbonica.md)
+
 
