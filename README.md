@@ -16,5 +16,6 @@ Equip: `gN` (canvieu-ho pel número del vostre equip)
 - [Confirmar l'assistència](pantalles/04-assistencia.md)
 - [App bonica](pantalles/08-appbonica.md)
 - [Autobús per a l'actuació](pantalles/09-autobus.md)
+- [Dies per a la pròxima actuació](pantalles/03-dies-actuacio.md)
 
 
