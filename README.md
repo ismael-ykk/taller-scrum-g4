@@ -17,5 +17,5 @@ Equip: `gN` (canvieu-ho pel número del vostre equip)
 - [App bonica](pantalles/08-appbonica.md)
 - [Autobús per a l'actuació](pantalles/09-autobus.md)
 - [Dies per a la pròxima actuació](pantalles/03-dies-actuacio.md)
-
+- [Ús sense connexió](pantalles/01-us-sense-connexio.md)
 
